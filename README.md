@@ -1,1 +1,2 @@
 # katalon-test
+- Chess.apk
